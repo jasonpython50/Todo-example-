@@ -1,2 +1,5 @@
-a mockup todolist app 
-this app is not an actual todo list but an example to demonstrate how to work with git and github and version control.
+# TODO list
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS3.
+## Features
+* List of daily tasks
